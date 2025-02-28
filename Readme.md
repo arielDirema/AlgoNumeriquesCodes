@@ -30,8 +30,8 @@ AlgoNumeriqueCodes/
 
 ### 1️⃣ Cloner le projet  
 ```bash
-git clone https://github.com/ton-repo/AlgoNumeriqueCodes.git
-cd AlgoNumeriqueCodes
+git clone https://github.com/arielDirema/AlgoNumeriquesCodes.git
+cd AlgoNumeriquesCodes
 ```
 
 ### 2️⃣ Installer les dépendances  
@@ -83,7 +83,7 @@ Toute contribution est la bienvenue ! Pour proposer des améliorations :
 
 ## 🛠 Technologies utilisées  
 
-- **Python** (NumPy, SciPy, SymPy pour le calcul scientifique)  
+- **Python** (NumPy, Matplotlib, Sympy)  
 - **Jupyter Notebook** (pour les tests et expérimentations)  
 
 ---
